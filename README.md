@@ -35,7 +35,7 @@ Adjusting threshold will determine how long a swipe must be to move to the next 
 For more details see [Bootstrap Carousel Swipe](https://github.com/maaaaark/bcSwipe)
 
 ## Contributing
-Feel free to report gem issues to [here](https://github.com/mawiegand/jquery-bc-swipe/issues).
+Feel free to report gem issues [here](https://github.com/mawiegand/jquery-bc-swipe/issues).
 For library issues see [Bootstrap Carousel Swipe](https://github.com/maaaaark/bcSwipe).
 
 ## License
